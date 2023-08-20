@@ -1,0 +1,93 @@
+h1 {
+    text-align: center;
+    color: rgb(139, 69, 19);
+    font-size: 50px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.language {
+    text-align: center; 
+    background-color: rgb(112,112,112); 
+    color: white; 
+    font-family: 'Preahvihear', sans-serif;
+    font-size: 20px;
+    border: 1.5px solid black; 
+    padding: 10px;
+    cursor: pointer;
+}
+
+hr {
+    border-top: 2px solid black;
+}
+
+.container {
+    color: #19a319; 
+}
+
+#telStatement {
+    width: 1000px;
+    padding-left: 120px;
+}
+
+img {
+    max-width: 400px;
+    float: left; 
+    width: 80px; 
+}
+
+h2{
+    font-size: 20px; 
+    text-align: center; 
+}
+
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/21/14/57/wheat-1845835_1280.jpg');
+    font-family: 'Preahvihear', sans-serif;
+    text-align: center; 
+}
+
+#subtitle {
+    text-align: center; 
+}
+
+button {
+    background-color: rgb(139, 69, 19); 
+    color: white; 
+    font-family: 'Preahvihear', sans-serif;
+}
+
+button:active {
+    border-color: #19a319; 
+    border-radius: 8px; 
+    background-color: #85e085; 
+}
+
+.clicked {
+    border-color: #19a319; 
+    border-radius: 8px; 
+    background-color: #85e085; 
+}
+
+.card {
+    text-align: center; 
+    width: 345px;
+    display: inline-grid; 
+    margin: 20px; 
+    padding: 10px; 
+    background-color: rgb(255, 239, 213); 
+    border-radius: 10px; 
+    box-shadow: 1px 1px 0px 2px #333;
+}
+
+a {
+    background-color: rgb(139, 69, 19); 
+    color: white; 
+    width: 345px;  
+    border: 2px solid black;
+}
+
+.telugu {
+    display: none; 
+}
+
+

@@ -1,0 +1,88 @@
+.container {
+    position: relative; 
+    text-align: center; 
+}
+
+#title {
+    height: 350px; 
+    width: 100%; 
+    opacity: 0.65; 
+}
+
+
+#title2 {
+    position: static; 
+    text-align: center; 
+    color: rgb(139, 69, 19);
+    font-size: 65px;
+    font-family: 'Kanit', sans-serif; 
+}
+
+h1 {
+    position: absolute; 
+    text-align: center;
+    color: rgb(139, 69, 19);
+    font-size: 65px;
+    font-family: 'Kanit', sans-serif;
+    top: 70px;
+    left: 205px;  
+}
+
+
+
+h3 {
+    width: 300px; 
+    font-size: 25px; 
+    padding-right: 15px; 
+    padding-bottom: 10px; 
+}
+
+p {
+    width: 700px; 
+}
+
+.part {
+    width: 1000px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    padding-left: 100px; 
+    padding-right: 100px; 
+    padding-bottom: 40px; 
+    background-color: white;
+    font-family: 'Preahvihear', sans-serif;
+    display: flex; 
+    align-items: center;
+    
+}
+
+.part:hover {
+    background-color: rgb(255, 239, 213); 
+}
+
+.boxOdd {
+    display: flex; 
+    justify-content: flex-end; 
+    margin-left: 15px; 
+}
+
+
+.adBox {
+    width: 250px; 
+    height: 350px; 
+    border: 2px solid black;   
+    margin-bottom: 10px;
+    
+}
+
+h2 {
+    font-family: 'Preahvihear', sans-serif;
+    text-align: center;
+    padding-top: 125px; 
+
+}
+
+#part1 {
+    margin-top: 50px; 
+}
+
